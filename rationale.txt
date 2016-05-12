@@ -1,0 +1,40 @@
+For this assignment, my target audience is people that do not know me very well personally, such as
+people I have only spoken once or twice with or people who know me through the internet. A persona
+would be Will, a 18 year old guy who knows me through internet forums on Naruto (an anime). He would
+want to come to the website to know more about me personally, but he would also look for some fun
+stuff to do because this is not a investigation but just something to do in his sparetime. He might
+talk about the website with a few of his friends. 
+
+For the overall theme of my page, I chose the sea. I oriented the background and color scheme to fit 
+this theme. The blues and white and the header image create a feeling of the sea. I also chose the
+navigation bar color and the color of the links to be consistent with my theme. I chose the sea as
+a theme because I feel that it represents me and because I like the sea a lot. The blue color scheme
+also creates a soothing feeling and will help viewers to relax. I also put a lot of white on the page
+because I don't want viewers to be overwhelmed with color. I want the page to be interesting but not
+too busy. 
+
+For my header and navigation font I chose Tekton Pro because it gives a funky, more flavored feeling.
+For the font for the bulk of the writing I chose Tahoma because it is not very fancy so that viewers
+would not have a hard time reading great chunks of fancy text. Both text types are of sans-serif 
+which is good for website use and easy to distinguish for viewers.
+
+For the navigation, I put a navigation bar on the left side of the page. This bar is fixed, so that 
+when the content does not fit on the screen and you have to scroll down you don't have to scroll up to 
+view the navigation. I made it this way so that it would be easier for viewers to get around the site. 
+The navigation includes all the pages, not only the pages that the viewer is not on currently, so that
+the viewer can always see how the whole website is oriented. 
+
+For the overall layout, I fixed the header and the navigation but not the content to the page. This 
+way it creates the feeling that the inner content is boxed up by the header and the navigation, and
+when you scroll down you can see more of the content that is boxed up. I oriented it this way to 
+give the whole page more structure, and so that no matter what content you are viewing you always
+know what page you are on and what your options are from there. 
+
+For the form I made it so that after you submit it it goes back to the same page. This is so that 
+if you submitted it wrongly, you will be given a chance to submit it again. If you submitted
+it correctly you would be given one of two outcomes: compatible or not. This uses the same
+layout code so I did not want to make another page for it. I used post for the form so that
+people cannot easily see the values that were entered into the form.
+
+Also, for the navigation, I made a seperate page and required it on every page, so I don't have to
+write too much redundant code. 

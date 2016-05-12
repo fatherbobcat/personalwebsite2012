@@ -1,0 +1,78 @@
+body{background-image:url('wave.png');
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-family: "Tahoma", Arial, sans-serif;
+padding-left:3cm;
+padding-right:3cm;
+padding-bottom:3cm;
+min-width:800px;
+max-width:2000px;}
+
+p{text-align:center;}
+
+em{color:#03658C;}
+
+img{border:5px solid;
+border-radius: 2em;
+border-color:#048ABF;}
+
+h1{text-align:center;
+border: 2px solid;
+margin-left:3cm;
+margin-right:3cm;
+margin-top:1cm;
+border-radius:2em;
+background-color: #04B2D9;
+font-family: "Tekton Pro Ext", Tahoma, sans-serif;}
+
+h4{text-align:center;
+background-color:#03658C;
+border:2px solid;
+border-radius:2em;
+border-color:#04B2D9;
+padding-left:0.5cm;
+padding-right:0.5cm;
+}
+
+a:link{color:#04B2D9;}
+a:visited{color:#03658C;}
+a:hover{color:#000000;}
+h4 a:link{color:#FFFFFF;}
+h4 a:visited{color:#FFFFFF;}
+h4 a:hover{color:#04B2D9;}
+
+div#header{
+margin-right: 4cm;
+position:fixed;
+width:1080px;
+top:0px;
+left:245px;
+background-color:#FFFFFF;
+}
+
+div#nav{position:fixed;
+top:200px;
+font-family:"Tekton Pro Ext", Tahoma, sans-serif;
+}
+
+div#body{
+padding-top:0.5cm;
+padding-right:1cm;
+padding-left:1cm;
+padding-bottom:0.5cm;
+margin-top:6cm;
+border:2px solid;
+border-radius: 2em;
+background-color:#F2F2F2;
+float:left;
+margin-bottom:3cm;
+margin-left:240px;
+width:760px;
+}
+
+div#picture{
+float:right;}
+
+img#imgheader{border:1px solid;
+border-color:#FFFFFF;}
+
